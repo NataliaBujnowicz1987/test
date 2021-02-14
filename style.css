@@ -8,7 +8,7 @@ body {
     /* Center the image */
     overflow-x: hidden;
     max-width: 100%;
-    border: 2px solid red;
+    border: 5px dotted blue;
 }
 
 
