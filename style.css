@@ -5,6 +5,8 @@ body {
     background-size: cover;
     background-attachment: fixed;
     overflow-x: hidden;
+    width: 99vw;
+    border: 2px solid red;
 }
 
 @media (min-width: 700px) {
