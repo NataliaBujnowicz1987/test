@@ -4,16 +4,20 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    background-position: center;
+    /* Center the image */
     overflow-x: hidden;
-    width: 99vw;
+    max-width: 100%;
     border: 2px solid red;
 }
 
+
+/* desktop */
 @media (min-width: 700px) {
     body {
         background-image: url("desktop.jpg");
         width: 100%;
-
+        border: 2px solid green;
     }
 
 }
