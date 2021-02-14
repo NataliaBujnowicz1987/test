@@ -4,11 +4,11 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-position: center;
+    /* background-position: center; */
     /* Center the image */
     overflow-x: hidden;
     max-width: 100%;
-    border: 5px dotted blue;
+    border: 5px double green;
 }
 
 
